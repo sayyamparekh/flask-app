@@ -1,6 +1,6 @@
 FROM python:3.10
 
-LABEL devops="Anup Dudhe"
+LABEL devops="Sayyam Parekh"
 
 WORKDIR /app
 
